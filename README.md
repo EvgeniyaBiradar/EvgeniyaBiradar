@@ -28,6 +28,7 @@
             <h2>My Projects</h2>
             <ul>
                 <li><a href="https://github.com/EvgeniyaBiradar/thinking-through-a-unit-test">Unit testing with jest</a></li>
+                <li><a href="https://github.com/EvgeniyaBiradar/MyFirstBlockie">My first blockie</a></li>
                 <li>Many more to come</li>
               
             </ul>
